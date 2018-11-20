@@ -1,0 +1,10 @@
+{% extends parent_template|default:"base.html" %}
+{% load staticfiles %}
+{% block css %}
+ <link rel="stylesheet" type="text/css"
+       href="{% static 'golf_course/style.css' %}"/>
+{% endblock %}
+{% block img %}
+    <img src="{% static 'golf_course/course_ball_hole.jpg' %}" alt="Whole In One"
+        style="width: 175px; height: 175px; border-radius: 50%"/>
+{% endblock %}

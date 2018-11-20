@@ -1,0 +1,568 @@
+1524442441461	geckodriver	INFO	geckodriver 0.20.1
+1524442441505	geckodriver	INFO	Listening on 127.0.0.1:61014
+1524442444563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.lZTgKtfXxjBG"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524442459610	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524442470074	Marionette	INFO	Listening on port 61022
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524442470500	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524443635365	geckodriver	INFO	geckodriver 0.20.1
+1524443635556	geckodriver	INFO	Listening on 127.0.0.1:61246
+1524443638367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.IURPzfmJPB0n"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524443641732	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524443646930	Marionette	INFO	Listening on port 61255
+1524443647020	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 1120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524447120275	geckodriver	INFO	geckodriver 0.20.1
+1524447120306	geckodriver	INFO	Listening on 127.0.0.1:61616
+1524447123398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.BEYXceCeZnwn"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447126528	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447131370	Marionette	INFO	Listening on port 61624
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447132350	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:61770
+1524447389388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.rcnKVnGenM0m"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447391736	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447398318	Marionette	INFO	Listening on port 61778
+1524447399512	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:61922
+1524447527869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.lJ7hYEABH14k"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447530678	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447535858	Marionette	INFO	Listening on port 61930
+1524447535922	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:62051
+1524447731808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.QnHTo5Pj50n8"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447736222	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524447747764	Marionette	INFO	Listening on port 62059
+[Child 12308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524447747808	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 15072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Data\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524448347104	Marionette	INFO	Listening on port 62233
+1524448347840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 13808, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524611669552	geckodriver	INFO	geckodriver 0.20.1
+1524611669583	geckodriver	INFO	Listening on 127.0.0.1:51758
+1524611672821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.0zouxByHNpkG"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524611688076	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+1524611720986	Marionette	INFO	Listening on port 51767
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524611722236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12304, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524611864057	geckodriver	INFO	geckodriver 0.20.1
+1524611864151	geckodriver	INFO	Listening on 127.0.0.1:51883
+1524611867073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.jH20HBMCWmln"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524611880520	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524611892578	Marionette	INFO	Listening on port 51892
+1524611892740	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524612078364	geckodriver	INFO	geckodriver 0.20.1
+1524612078489	geckodriver	INFO	Listening on 127.0.0.1:52014
+1524612080958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.bUOOyj6q5r8W"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524612084078	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524612088990	Marionette	INFO	Listening on port 52022
+1524612089476	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 1740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524613386995	geckodriver	INFO	geckodriver 0.20.1
+1524613387120	geckodriver	INFO	Listening on 127.0.0.1:52182
+1524613389901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.nWbxTwF2iyB5"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524613391912	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524613397186	Marionette	INFO	Listening on port 52190
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524613398592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 11392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11392, Gecko_IOThrUnable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524616065062	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524616094916	Marionette	INFO	Listening on port 52465
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524616096062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 13328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524621062728	geckodriver	INFO	geckodriver 0.20.1
+1524621062759	geckodriver	INFO	Listening on 127.0.0.1:52794
+1524621065743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.Wd47WHo70N9D"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524621069734	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1524621076768	Marionette	INFO	Listening on port 52804
+1524621076984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 11332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525215713913	geckodriver	INFO	geckodriver 0.20.1
+1525215713960	geckodriver	INFO	Listening on 127.0.0.1:64321
+1525215717198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.RSbN2hHiyumQ"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525215720876	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0104,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 382: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+[Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+1525215737742	Marionette	INFO	Listening on port 64330
+1525215738032	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525216372996	geckodriver	INFO	geckodriver 0.20.1
+1525216373027	geckodriver	INFO	Listening on 127.0.0.1:64545
+1525216376078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.eIwVDIDb3nQl"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525216380474	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525216386240	Marionette	INFO	Listening on port 64553
+1525216386330	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 1236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Local\openvr\openvrpaths.vrpath
+1525217117118	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525217135786	Marionette	INFO	Listening on port 64701
+1525217136224	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[GPU 4300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/[Parent 1400, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217228232	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217239544	Marionette	INFO	Listening on port 64817
+1525217240158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 15500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525217583713	geckodriver	INFO	geckodriver 0.20.1
+1525217583744	geckodriver	INFO	Listening on 127.0.0.1:64921
+1525217586625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.ArY6owS5lQyf"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217596654	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217608870	Marionette	INFO	Listening on port 64930
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217609520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525217778233	geckodriver	INFO	geckodriver 0.20.1
+1525217778265	geckodriver	INFO	Listening on 127.0.0.1:65108
+1525217781327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.yEWlZmCgQrrP"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217783922	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525217800408	Marionette	INFO	Listening on port 65116
+1525217800660	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525218133219	geckodriver	INFO	geckodriver 0.20.1
+1525218133250	geckodriver	INFO	Listening on 127.0.0.1:65222
+1525218136239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.LvbfzIWV3etF"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218139184	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218153964	Marionette	INFO	Listening on port 65231
+1525218154842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 15832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\openvr\openvrpaths.vrpath
+1525218203166	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218208904	Marionette	INFO	Listening on port 65337
+1525218209100	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Local\openvr\openvrpaths.vrpath
+1525218421084	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218443184	Marionette	INFO	Listening on port 65424
+1525218443774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:65532
+1525218806764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.46jQQf8cF15Q"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218818416	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218832890	Marionette	INFO	Listening on port 49158
+1525218833132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:49259
+1525218866949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.9o15sjOS3uSl"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218869912	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525218876124	Marionette	INFO	Listening on port 49267
+1525218877128	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ng on 127.0.0.1:49353
+1525218995382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.YR5hzp5aZoED"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219008068	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219017762	Marionette	INFO	Listening on port 49362
+1525219018436	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Child 12032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12032*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 427: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 427: Error: OS.File has been shut down. Rejecting request to stat
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525219146999	geckodriver	INFO	geckodriver 0.20.1
+1525219147030	geckodriver	INFO	Listening on 127.0.0.1:49557
+1525219149541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.5jJTSx5YjAh6"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219152072	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219156146	Marionette	INFO	Listening on port 49566
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219157096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Child 12916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1525219325098	geckodriver	INFO	geckodriver 0.20.1
+1525219325129	geckodriver	INFO	Listening on 127.0.0.1:49723
+1525219328193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\misch\\AppData\\Local\\Temp\\rust_mozprofile.aSDeFVH5zAZf"
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+1525219330034	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+console.error: 
+  Could not write session state file 
+  Message: Error: _initWorker called too early! Please read the session file from disk first.
+  Stack:
+    _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+  _initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:344:15
+_initWorker@resource:///modules/sessionstore/SessionFile.jsm:337:12
+_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:361:11
+write@resource:///modules/sessionstore/SessionFile.jsm:401:19
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:9
+
+1525219349420	Marionette	INFO	Listening on port 49732
+1525219349584	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\misch\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+JavaScript error: https://www.ssa.gov/OACT/babynames/chkinput.js, line 14: TypeError: document.babyname.nyrs is undefined
+[Parent 15632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

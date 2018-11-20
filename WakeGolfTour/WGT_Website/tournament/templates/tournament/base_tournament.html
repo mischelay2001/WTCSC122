@@ -1,0 +1,12 @@
+{% extends parent_template|default:"base.html" %}
+{% load staticfiles %}
+{% block css %}
+    <link rel="stylesheet" type="text/css"
+          href="{% static 'tournament/style.css' %}"/>
+{% endblock %}
+{% block img %}
+    <img src="{% static 'tournament/golf_tournament.jpg' %}" alt="Image of tournament logo"
+        style="width: 200px; height: 200px"/>
+{% endblock %}
+
+

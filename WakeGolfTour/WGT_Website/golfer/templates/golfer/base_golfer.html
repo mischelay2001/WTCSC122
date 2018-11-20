@@ -1,0 +1,10 @@
+{% extends parent_template|default:"base.html" %}
+{% load staticfiles %}
+{% block css %}
+    <link rel="stylesheet" type="text/css"
+          href="{% static 'golfer/style.css' %}"/>
+{% endblock %}
+{% block img %}
+    <img src="{% static 'golfer/golf_swing.jpg' %}" alt="Image of golfer swing."
+        style="width: 175px; height: 175px; border-radius: 50%"/>
+{% endblock %}

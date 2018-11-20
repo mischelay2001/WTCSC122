@@ -1,0 +1,78 @@
+start python manage.py runserver
+
+python manage.py loaddata tourn_golfer_data.json
+
+python manage.py dumpdata --indent=4 --pks=46 tournament.Round
+
+python manage.py dumpdata --indent=4 --pks=226 golfer.TournGolfer
+
+python manage.py dumpdata --indent=4 --pks=1 golfer.TournGolfer
+
+python manage.py dumpdata --indent=4 --pks=1 tournament.Round
+
+python manage.py loaddata tourn_golfer_data.json
+
+python manage.py dumpdata --indent=4 --pks=1 golfer.GolferRoundScores
+
+python manage.py loaddata golfer_round_scores_data.json
+
+pip install -U beautifulsoup4
+
+C:\Python27\python.exe C:\Users\Username\Desktop\my_python_script.py
+
+C:\Program Files\Python36\python.exe "C:\Users\misch\Documents\School\WakeTech\CSC122 - Python Applications\CSC122Labs\WebScraping\TopBabyNames.py"
+
+python BabyNamePopularity.py Arya Davos Robert Jaime 
+
+My output for the tourn_golfer_data.json is different from your output on page 26 and 27.  Also, I am not matching the same output from golfer_round_scores_data.json as listed on page 34-35.
+
+[{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 6}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 1}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 3}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 13}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 5}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 16}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 9}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 25}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 18}
+}, 
+{"model": "golfer.tourngolfer", 
+"fields": {
+"tg_tourn": 16, 
+"tg_golfer": 30}
+}]

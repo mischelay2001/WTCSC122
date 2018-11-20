@@ -1,0 +1,35 @@
+ID            1-11   Character
+LATITUDE     13-20   Real
+LONGITUDE    22-30   Real
+ELEVATION    32-37   Real
+STATE        39-40   Character
+NAME         42-71   Character
+GSN FLAG     73-75   Character
+HCN/CRN FLAG 77-79   Character
+WMO ID       81-85   Character
+
+USW00013722  35.8922  -78.7819  126.8 NC RALEIGH DURHAM INTL AP         GSN     72306
+
+Forecasting: look for pattern
+Time Series
+Seasonality: peaks up and down
+Sequence Charts
+Trend: up or down or flat
+3 
+Chart
+Modeling
+Autoregression: 1 period lag or previous month or year etc
+Moving Average: this month last month month previous; take data as it is or just last 3 periods
+Regression Difference: example(11, 12, 13) difference is 1 and 2
+
+pip install ModuleName
+pip install –U ModuleName
+http://twilio.com/
+
+#Malcolm109072
+
+SID: AC8b7602f5a2bbb1e2c75f276fe71f7c5d
+
+Token: 50e4399501e1efa1522d77172358fa63
+
+python stockWatcher2.py MSFT GOOG AAPL AMZN
